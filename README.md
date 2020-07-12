@@ -7,3 +7,7 @@ Time tracker
 problem
 
 problemo
+
+## Purpose
+
+to test my git knowledge about merging, pulling, pushing, etc
